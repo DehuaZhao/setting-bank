@@ -1,0 +1,8 @@
+{
+    "files.autoSave": "afterDelay",
+    "files.trimTrailingWhitespace": true,
+    "editor.wordWrap": "bounded",
+    "editor.wordWrapColumn": 140,
+    "editor.fontSize": 16
+    // "go.formatOnSave": false
+}
