@@ -2,8 +2,10 @@
   // file name: settings.json
   "files.autoSave": "afterDelay",
   "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
   "editor.wordWrap": "bounded",
   "editor.wordWrapColumn": 140,
-  "editor.fontSize": 16
-  // "go.formatOnSave": false
+  "editor.fontSize": 16,
+  "editor.renderWhitespace": "all",
+  // "go.formatOnSave": false,
 }
