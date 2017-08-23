@@ -4,6 +4,7 @@
   "files.trimTrailingWhitespace": true,
   "files.insertFinalNewline": true,
   "editor.wordWrap": "bounded",
+  "editor.tabSize": 2,
   "editor.wordWrapColumn": 140,
   "editor.fontSize": 16,
   "editor.renderWhitespace": "all",
